@@ -32,5 +32,7 @@
  - Torch-scatter == 2.0.9
  - Torch-sparse == 0.6.12
  - Torch-spline-conv == 1.2.1
- ### Citation
+### Notation
+9606.protein.links.detailed.v11.0.txt and data_new.npy are too large to upload. If you want to download them, please click https://pan.baidu.com/s/1JbL3jBE8TmBvAG_mhKa7cA?pwd=mo7n
+### Citation
  If there is a requirement for you to reference the paper, code or dataset, please ensure to cite the source accurately.
